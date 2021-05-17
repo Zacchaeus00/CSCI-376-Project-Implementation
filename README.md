@@ -11,5 +11,5 @@ All data, code and weights are hosted on [Kaggle](www.kaggle.com) as linked belo
 - [Finetuning CLIP](https://www.kaggle.com/zacchaeus/clip-finetune): The pipeline for finetuning CLIP on our dataset, including both training and evaluation.
 - [Finetuning BERT for Caption Splitting](https://www.kaggle.com/zacchaeus/bert-splitter): The pipeline for finetuning BERT on our dataset for caption splitting, including both training and evaluation.
 ## Weights
-- [Finetuned CLIP Weights](https://www.kaggle.com/zacchaeus/clipfinetuneweights): The `PyTorch` weights of the finetuned CLIP model, including a `best_model.pt` which had lowest validation loss and a `last_model.pt` which overfitted the training data.
+- [Finetuned CLIP Weights for Image-Caption Matching](https://www.kaggle.com/zacchaeus/clipfinetuneweights): The `PyTorch` weights of the finetuned CLIP model, including a `best_model.pt` which had lowest validation loss and a `last_model.pt` which overfitted the training data.
 - [Fintuned BERT Weights for Caption Splitting](https://www.kaggle.com/zacchaeus/bert-splitter-dirty/settings): The `PyTorch` weights of the finetuned BERT model for caption splitting, including a `best_model.pt` which had lowest validation loss.
