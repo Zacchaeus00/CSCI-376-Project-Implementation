@@ -3,7 +3,7 @@ Created by *Yuchen Wang (yw3642@nyu.edu)* and *Yichen Huang (yh2689@nyu.edu)* in
 
 All data, code and weights are hosted on [Kaggle](www.kaggle.com) as linked below.
 
-[model diagram](https://github.com/Zacchaeus14/CSCI-376-Project-Implementation/blob/main/model_diagram.png?raw=true)
+[a diagram of our overall pipeline](https://github.com/Zacchaeus14/CSCI-376-Project-Implementation/blob/main/model_diagram.png?raw=true)
 
 ## Data
 - [Raw Data](https://www.kaggle.com/zacchaeus/meme-project-raw): Raw data scrapped from [memegenerator.net](www.memegenerator.net) including 3000 images and about 300,000 captions.
