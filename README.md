@@ -1,5 +1,5 @@
 # CSCI-376 Natural Language Processing Project Implementation
-Created by Yuchen Wang (yw3642@nyu.edu) and Yichen Huang (yh2689@nyu.edu) at May 2021
+Created by Yuchen Wang (yw3642@nyu.edu) and Yichen Huang (yh2689@nyu.edu) in May 2021
 
 All data, code and weights are hosted on [Kaggle](www.kaggle.com) as linked below.
 ## Data
