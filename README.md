@@ -1,6 +1,6 @@
 # Meme Caption Generation
-This is the implementation for our course project in CSCI-376 Natural Language Processing taught by [Prof. Yik-Cheung Tam](https://shanghai.nyu.edu/academics/faculty/directory/yik-cheung-wilson-tam) at NYU Shanghai.
-Created by *Yuchen Wang (yw3642@nyu.edu)* and *Yichen Huang (yh2689@nyu.edu)* in May 2021
+This is the implementation of our course project in CSCI-376 Natural Language Processing taught by [Prof. Yik-Cheung Tam](https://shanghai.nyu.edu/academics/faculty/directory/yik-cheung-wilson-tam) at NYU Shanghai.
+*Yuchen Wang (yw3642@nyu.edu)* and *Yichen Huang (yh2689@nyu.edu)*, May 2021.
 
 ## Paper Report
 [pdf](https://github.com/Zacchaeus14/CSCI-376-Project-Implementation/blob/main/nlp_final_report.pdf?raw=true)
