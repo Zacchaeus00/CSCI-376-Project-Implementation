@@ -4,6 +4,7 @@ This is the implementation of our course project in CSCI-376 Natural Language Pr
 
 ## Paper Report
 [pdf](https://github.com/Zacchaeus14/CSCI-376-Project-Implementation/blob/main/nlp_final_report.pdf?raw=true)
+[slides](https://docs.google.com/presentation/d/1vRHRJ6RL9uaqlVlzu8dMmI7Kb7LRWh64vFyEQHotFi0/edit?usp=sharing)
 
 ## Pipeline Architecture
 ![pipeline architecture](https://github.com/Zacchaeus14/CSCI-376-Project-Implementation/blob/main/model_diagram.png?raw=true "pipeline architecture")
